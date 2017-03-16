@@ -1,9 +1,6 @@
 TechersWhoCare Slack Code of Conduct
 ====================================
 
-Welcome!
---------
-
 This Slack started life as a means to help organize and promote communication between people organizing around the [2017 March For Science](http://marchforsciencela.com).
 
 The current admins are:
@@ -13,7 +10,7 @@ The current admins are:
 
 We want this to be a fun, pleasant, and harassment-free experience for everyone.  All members are expected to show respect and courtesy to other members.  We do not tolerate harassment of participants in any form; participants asked to stop any harassing behavior are expected to comply immediately.
 
-This code of conduct is a living document, so feel free to suggest changes or additions to the Slack admins.
+This code of conduct is a living document, so feel free to suggest changes or additions either by contacting the admins or making pull requests [directly on GitHub](https://github.com/TechersWhoCare/slack-misc/blob/master/code-of-conduct.md).
 
 Membership and discretion
 -------------------------
