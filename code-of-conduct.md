@@ -15,13 +15,14 @@ We want this to be a fun, pleasant, and harassment-free experience for everyone.
 
 This code of conduct is a living document, so feel free to suggest changes or additions to the Slack admins.
 
-
 Membership and discretion
 -------------------------
 
 This Slack is open to the Caltech community, but to protect members' privacy, it is not open to the general public.  Generally, only people who demonstrate they have `@caltech.edu` email address will be accepted to the Slack, although people can choose to sign up with other addresses if they wish.
 
 Be aware that even step this provides only limited privacy.  As a member, you may wish to pick a handle that does not easily identify you, as well as sign up with a non-Caltech email address and take further steps to protect your privacy, in order to reduce unwelcome attention in real life.
+
+Despite our best efforts, Slacks are never fully private.  You should assume that nothing is really private, even direct messages between members.
 
 Expected Behavior
 -----------------
