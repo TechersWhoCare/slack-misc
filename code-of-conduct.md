@@ -65,3 +65,5 @@ Credits and License
 
 Portions of this code of conduct were taken from the [Slack Developer Community Code of Conduct](https://api.slack.com/docs/community-code-of-conduct) and Annalee Flower Horne's [Sample Slack Code of Conduct](https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17).
 Those codes are licensed under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/) and the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).  The TechersForScience code of conduct is licensed under the [Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/3.0/).
+
+<a href="https://creativecommons.org/licenses/by-sa/3.0"><img align="left" src="https://raw.githubusercontent.com/TechersWhoCare/slack-misc/master/.graphics/cc-by.png"></a>
