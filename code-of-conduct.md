@@ -6,7 +6,8 @@ This Slack started life as a means to help organize and promote communication be
 The current admins are:
 
 * Michael Hucka (`@mhucka`)
-* Magnus Haw (`@magnus`)
+* `@magnus`
+* `@gviglion`
 
 We want this to be a fun, pleasant, and harassment-free experience for everyone.  All members are expected to show respect and courtesy to other members.  We do not tolerate harassment of participants in any form; participants asked to stop any harassing behavior are expected to comply immediately.
 
